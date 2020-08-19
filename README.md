@@ -1,4 +1,4 @@
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/JulianBeaulieu/JulianBeaulieu/blob/master/header.png)
 
 <!--
 **JulianBeaulieu/JulianBeaulieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
