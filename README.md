@@ -2,7 +2,7 @@
 
 I'm Julian, Computer Science student from &nbsp; <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="24"> &nbsp; **Frankfurt, Germany**, currently living in &nbsp; <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="24"> &nbsp; **Los Angeles, USA**
 
-<hr>
+## 👨🏻‍💻 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JulianBeaulieu&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
@@ -10,8 +10,7 @@ I'm Julian, Computer Science student from &nbsp; <img src="https://hatscripts.gi
 
 
 
-## ⚡ Technologies
-
+## 👨🏻‍💻 Technologies
 ### Languages
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
