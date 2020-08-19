@@ -1,6 +1,6 @@
 ![image](https://github.com/JulianBeaulieu/JulianBeaulieu/blob/master/header.png)
 
-I'm Julian, Computer Science student from &nbsp; <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="24"> &nbsp; **Frankfurt, Germany**, currently living in &nbsp; <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="24"> &nbsp; **Los Angeles, USA**
+I'm Julian, Computer Science student from &nbsp; <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="11"> &nbsp; **Frankfurt, Germany**, currently living in &nbsp; <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="11"> &nbsp; **Los Angeles, USA**
 
 ## 👨🏻‍💻 Stats
 
