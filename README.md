@@ -23,9 +23,9 @@ I'm Julian, Computer Science student from  <img src="https://hatscripts.github.i
 
 ### Software
 
-![IntelliJ](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=jetbrains)
-![CLion](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=jetbrains)
-![PyCharm](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=jetbrains)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-181717?style=flat-square&logo=jetbrains)
+![CLion](https://img.shields.io/badge/-CLion-181717?style=flat-square&logo=jetbrains)
+![PyCharm](https://img.shields.io/badge/-PyCharm-181717?style=flat-square&logo=jetbrains)
 ![XCode](https://img.shields.io/badge/-XCode-black?style=flat-square&logo=xcode)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -36,5 +36,5 @@ I'm Julian, Computer Science student from  <img src="https://hatscripts.github.i
 
 ## Follow Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)](http://www.linkedin.com/in/julianbeaulieu)
+[![Linkedin Badge](https://img.shields.io/badge/-JulianBeaulieu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianbeaulieu/)](https://www.linkedin.com/in/julianbeaulieu)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/JulianBeaulieu)
