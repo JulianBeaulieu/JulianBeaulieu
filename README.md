@@ -1,15 +1,14 @@
 ## Welcome to my GitHub page! I'm Julian, a Computer Science student from  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="13">  **Frankfurt, Germany**, currently living in  <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="13">  **Los Angeles, USA**.
 
+## 👨🏻‍💻 Profile
+Incoming Masters of Science in Computer Science student at Texas A&M University. Experienced in leading small cross-functional team of engineers and UI/UX designers. Skilled in app development, web design, IoT, and startup management. Knowledgeable in data structures, efficient algorithms, scalable software architecture, embedded systems, and machine learning. Interested in hands-on experience as a Full Stack, Machine Learning Engineer or Data Scientist.
+
+
 ## 👨🏻‍💻 Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JulianBeaulieu&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBeaulieu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-<a>
+<a href="https://github.com/julianbeaulieu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulianBeaulieu&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a>
+<a href="https://github.com/julianbeaulieu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBeaulieu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
