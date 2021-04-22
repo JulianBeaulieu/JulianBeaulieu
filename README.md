@@ -4,7 +4,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JulianBeaulieu&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBeaulieu&langs_count=5&hide=assembly,hack&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBeaulieu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
