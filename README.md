@@ -1,4 +1,4 @@
-## Welcome to my GitHub page! I'm Julian, a Computer Science student from  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="13">  **Frankfurt, Germany**, currently living in  <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="13">  **Los Angeles, USA**.
+## Welcome to my GitHub page! I'm Julian, a Computer Science student from  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="13">  **Frankfurt, Germany**, currently living in  <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="13">  **College Station, USA**.
 
 ## 👨🏻‍💻 Profile
 Incoming Masters of Science in Computer Science student at Texas A&M University. Experienced in leading small cross-functional team of engineers and UI/UX designers. Skilled in app development, web design, IoT, and startup management. Knowledgeable in data structures, efficient algorithms, scalable software architecture, embedded systems, and machine learning. Interested in hands-on experience as a Full Stack, Machine Learning Engineer or Data Scientist.
