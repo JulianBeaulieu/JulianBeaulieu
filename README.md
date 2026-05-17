@@ -13,10 +13,10 @@ ML & Data Infrastructure Engineer at Amazon AGI - I work on the multimodal train
 - Developer experience for ML scientists
 
 ## 👨🏻‍💻 Daily tools
-**Languages**  Python · C++ · CUDA · SQL
-**ML & Inference**  PyTorch · vLLM · Ray · Ray Data · Hugging Face · Flash Attention
-**Platform**  Kubernetes · AWS (EKS, EMR, SageMaker, Batch, CDK) · Docker · Airflow · Apache Hudi · Zookeeper
-**Hardware**  H100 · A100 · L4
+**Languages**  Python · C++ · CUDA · SQL<br>
+**ML & Inference**  PyTorch · vLLM · Ray · Ray Data · Hugging Face · Flash Attention<br>
+**Platform**  Kubernetes · AWS (EKS, EMR, SageMaker, Batch, CDK) · Docker · Airflow · Apache Hudi · Zookeeper<br>
+**Hardware**  H100 · A100 · L4<br>
 
 <hr>
 
