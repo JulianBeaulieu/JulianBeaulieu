@@ -1,15 +1,14 @@
-## Welcome to my GitHub page! I'm Julian, originally from  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="13">  **Frankfurt, Germany**, currently living in  <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="13">  **College Station, USA**.
+## Welcome to my GitHub page! I'm Julian, originally from  <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="13">  **Frankfurt, Germany**, currently living in  <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="13">  **Seattle, USA**.
 
 ## 👨🏻‍💻 Profile
-Graduated masters student at Texas A&M University majoring in Computer Science. Experience in leading small cross-functional team of engineers and UI/ UX designers. Skilled in mobile development and startup management. Knowledgeable in data structures, efficient algorithms, software engineering, data mining and machine learning. Seeking hands-on work experience as a Machine Learning Engineer, Data Scientist, Data Engineer, or Software Engineer.
+ML & Data Infrastructure Engineer at Amazon AGI - I work on the multimodal training-data platform behind Amazon Nova Sonic and the wider Nova family.
 
-## 👨🏻‍💻 Stats
-<a href="https://github.com/julianbeaulieu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulianBeaulieu&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/julianbeaulieu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBeaulieu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+## 👨🏻‍💻 What I work on
+
+- Multimodal training-data infrastructure for foundation models (speech, video, image, text)
+- Distributed batch inference on Ray + Kubernetes
+- Fault-tolerant orchestration of long-running GPU jobs
+- Developer experience for ML scientists
 
 
 ## 👨🏻‍💻 Technologies
